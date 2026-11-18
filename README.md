@@ -24,12 +24,15 @@
    
 **Тестирование**
 1. Основная проверка класса Point
+   
    <img width="666" height="523" alt="изображение" src="https://github.com/user-attachments/assets/4f0bacf8-9aff-4dd9-911f-888776f9980e" />
 
 2. Проверка расстояния по тройке 5–12–13
+   
    <img width="660" height="523" alt="изображение" src="https://github.com/user-attachments/assets/fe4e612b-7075-45d6-9865-4e3b515b3a24" />
 
 3. Проверка обработки некорректного ввода
+   
    <img width="661" height="747" alt="изображение" src="https://github.com/user-attachments/assets/e60fba76-40e3-40ba-bdf7-4e0c78085f52" />
 
 
@@ -60,14 +63,18 @@
 
 **Тестирование**
 1. Проверка операций на целых координатах
+   
 <img width="770" height="776" alt="изображение" src="https://github.com/user-attachments/assets/7b5c82e5-1a52-4d4b-9698-beb0a7d255ab" />
 
 2. Проверка операций на отрицательных и дробных координатах
+   
 <img width="826" height="770" alt="изображение" src="https://github.com/user-attachments/assets/21092cd2-8151-42e3-aec8-d292adb2b4fc" />
 
 3. Проверка нулевых координат
+   
 <img width="792" height="773" alt="изображение" src="https://github.com/user-attachments/assets/a6f08ecd-f263-4678-9b24-15d3e1cd32c5" />
 
 4. Проверка выхода координаты x за диапазон int
+   
 <img width="988" height="772" alt="изображение" src="https://github.com/user-attachments/assets/3f3c769e-7518-4e23-8275-63b1c59f785f" />
   
